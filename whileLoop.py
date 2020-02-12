@@ -1,12 +1,20 @@
-name = "ravindu"
-i = 0
+'''
+#
+##
+###
+####
+#####
 
+print above pattern using while loop
+'''
+
+i = 0
 #while loop
 while i < 5:
     j = 0
-    print(name,end="")
+    print("#",end="")
     while j < i:
-        print(j,"dilshan",end="")
+        print("#",end="")
         j+=1
     i+=1
     print()
