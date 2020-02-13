@@ -6,3 +6,6 @@ for i in nums:
 		break
 else :#this else is for for loop
 	print("not found")
+
+"<Summary>
+we can use else with for loop in python,if any of the values will not satisfy the condition in IF condition it will print the message in else part"
