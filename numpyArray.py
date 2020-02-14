@@ -21,7 +21,7 @@ arr1 = linspace(0,15,20)#from 1 to 15, 20 elements
 print(arr1)
 
 #arange
-arr2 = arange(1,15,2) #from 1 to 15, by 2
+arr2 = arange(1,15,2) #from 1 to 15, by 2 steps
 print(arr2)
 
 #logspace
