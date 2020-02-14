@@ -1,3 +1,13 @@
+'''
+There are many ways to declare array using NumPy
+ex:
+	1)manually
+	2)using linspace()
+	3)using arange()
+	4)using logspace()
+	5)using zeros()
+	6)using ones()
+'''
 from numpy import *
 
 #manually
