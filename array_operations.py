@@ -1,3 +1,6 @@
+'''
+NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of data
+'''
 from numpy import *
 
 arr1 = array([1,2,3,4,5])
