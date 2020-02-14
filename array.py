@@ -4,17 +4,16 @@
 #need to import array
 #need to types to declare data type => b = int, B = int,..... u = char,...,f = float, i = int
 
-#import array
+#declare array using array inbuilt pkg
+from array import *
 
-#from numpy import *
+value = array("i",[1,2,3,4,5]) #declare array
+print(value)
 
+for i in value :
+	print(i)
 
-#value = array([1,2,3,4,5])
-#print(value)
-
-#for i in value :
-#	print(i)
-
+#declare array using numpy
 from numpy import *
 
 value = array
