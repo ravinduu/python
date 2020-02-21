@@ -1,2 +1,7 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
+
+#input, output files
+data.txt
+write.txt
+
