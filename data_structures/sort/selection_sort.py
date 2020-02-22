@@ -10,7 +10,6 @@ def sort(nums):
 				min_pos = j
 
 		nums[i],nums[min_pos] = nums[min_pos],nums[i]
-
 	return nums
 
 print("not sort:",nums)
